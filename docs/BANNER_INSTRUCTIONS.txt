@@ -1,0 +1,25 @@
+RayTracer Banner Image Instructions
+
+The banner should be created with the following specifications:
+
+1. Dimensions: 1600x400 pixels
+2. Background: Dark gradient (from #1a1a1a to #2d2d2d)
+3. Main Elements:
+   - Title "RAYTRACER" in large, modern font (suggested: Montserrat Bold)
+   - Subtitle "3D Rendering Engine" in lighter weight
+   - Visual elements:
+     * Ray-traced spheres with different materials (metallic, glass)
+     * Light rays showing the ray-tracing concept
+     * Subtle grid pattern in the background
+4. Color Scheme:
+   - Primary: #4a90e2 (Blue)
+   - Secondary: #50e3c2 (Cyan)
+   - Accent: #f5a623 (Orange)
+   - Text: #ffffff (White)
+
+The banner should convey:
+- Professional look and feel
+- Technical nature of the project
+- Visual representation of ray-tracing concept
+
+Save the final image as 'raytracer_banner.png' in this directory. 
